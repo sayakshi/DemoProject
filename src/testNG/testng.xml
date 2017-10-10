@@ -1,0 +1,9 @@
+<suite name="Suite1">
+
+  <test name="exampletest1">
+    <classes>
+       <class name="testNG.TESTNG" />
+    </classes>
+  </test>
+    
+</suite>  	
